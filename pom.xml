@@ -44,8 +44,8 @@
     </build>
 
     <scm>
-        <connection>scm:git:git@github.com:filipHartman/sfg-pet-clinic.git</connection>
-        <developerConnection>scm:git:git@github.com:filipHartman/sfg-pet-clinic.git</developerConnection>
+        <connection>scm:git:https://github.com/filipHartman/sfg-pet-clinic.git</connection>
+        <developerConnection>scm:git:https://github.com/filipHartman/sfg-pet-clinic.git</developerConnection>
   </scm>
 
 
